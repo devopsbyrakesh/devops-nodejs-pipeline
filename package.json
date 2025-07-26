@@ -1,0 +1,11 @@
+{
+  "name": "devops-nodejs-pipeline",
+  "version": "1.0.0",
+  "description": "A simple Node.js app with CI/CD setup",
+  "main": "app/index.js",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "author": "Rakesh",
+  "license": "ISC"
+}
